@@ -1,0 +1,1 @@
+The MOOC.fi Java Programming II course that Helsinki University uses in their second semester of their Computer Science course. I started this - aswell as completed their first semester course - in preparation of starting Computer Science in the summer of 2022.
